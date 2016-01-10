@@ -30,3 +30,17 @@ Further, the calculated blobs are painted on separate images and stored.
 
 ![abc_bw_output3](https://cloud.githubusercontent.com/assets/10060176/12223446/abb5f3cc-b7fd-11e5-87de-9aa3727ac451.jpg)
 
+
+## Example 2:
+### Input image:
+![sampletext](https://cloud.githubusercontent.com/assets/10060176/12223632/baae5068-b802-11e5-89a6-63efa084812d.png)
+
+
+### Output images:
+1. 
+![sampletext png_outputblob0](https://cloud.githubusercontent.com/assets/10060176/12223633/bab16582-b802-11e5-80fc-91d51e9f5ff8.png)
+
+
+
+2. 
+![sampletext png_outputblob1](https://cloud.githubusercontent.com/assets/10060176/12223634/bab4fb84-b802-11e5-93ac-430ae6b9081a.png)
