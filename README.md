@@ -1,4 +1,4 @@
-# BlobExtractionInJava
+# BlobExtractionInJava [![Build Status](https://travis-ci.org/SampannaKahu/BlobExtractionInJava.svg?branch=master)](https://travis-ci.org/SampannaKahu/BlobExtractionInJava)
 ## Brief Description
 Given a grayscale image, this program thresholds the image with the preset threshold value and extracts black coloured blobs on white background and stores them in separate images.
 
